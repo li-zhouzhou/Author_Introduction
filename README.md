@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @lizhou
-- 👀 I’m interested in 嵌入式编程
-希望以后能够成为一名合格的嵌入式工程师
-- 🌱 I’m currently learning ros
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...telephone:13093770731
+大家好，我叫李洲，目前是一名在读研究生。
+- 👀 我非常喜欢嵌入式相关的编程，机器人控制程序相关的。
+希望以后能够成为一名合格的嵌入式工程师。
+- 🌱 我现在正在学习ros，嵌入式Linux。
+- 📫 我的联系方式是：13093770731
 
 
 <!---
